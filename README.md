@@ -69,15 +69,15 @@
 <br />
 
 <a href="https://youtu.be/LDJ3QvnIsQk
-" target="_blank"><img src="https://i9.ytimg.com/vi/LDJ3QvnIsQk/mqdefault.jpg?v=5f7e4db9&sqp=CIid_40G&rs=AOn4CLBq5QuhNWmdpdZZVRJ7aceEtDIxyg" 
+" target="_blank"><img src="https://i3.ytimg.com/vi/LDJ3QvnIsQk/maxresdefault.jpg" 
 alt="Warp Text to Shape with Silhouette Studio" width="240"  /></a>
 
 <a href="https://youtu.be/61QpftEG-Zg
-" target="_blank"><img src="https://i9.ytimg.com/vi/61QpftEG-Zg/mqdefault.jpg?v=5e651555&sqp=CIid_40G&rs=AOn4CLAAvoe0okBPYp_K9ZIfUJp2kU83Bw" 
+" target="_blank"><img src="https://i3.ytimg.com/vi/61QpftEG-Zg/maxresdefault.jpg" 
 alt="Davinci Resolve Media Offline Error" width="240"  /></a>
 
 <a href="https://youtu.be/PMKIFVVLpe8
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/PMKIFVVLpe8/mqdefault.webp?v=5e480786&sqp=CIid_40G&rs=AOn4CLBZ5uH0c4NkJVqOE7GTa8Z9C-53Xg" 
+" target="_blank"><img src="https://i3.ytimg.com/vi/PMKIFVVLpe8/maxresdefault.jpg" 
 alt="Affinity Designer Social Medial Templates" width="240"  /></a>
 
 [twitter]: https://twitter.com/stevecorwin9
