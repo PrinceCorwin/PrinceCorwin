@@ -27,11 +27,12 @@
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Steve Amalfitano | LinkedIn" width="30" />][linkedin]
 
 [<img align="left" src="https://github.com/PrinceCorwin/Amalfitano-portfolio/blob/main/images/ami-icon.png?raw=true" alt="Amalfi Makes It website" width="30" />][ami]
+
 <br />
 
 ---
 
-### 💻 Coding Skills:
+### 💻 Frontend Skills:
 
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/HTML 'HTML')
 
@@ -47,7 +48,9 @@
 
 [<img align="left" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://reactjs.org/ 'React')
 
-<br />
+---
+
+### 💻 Backend Skills:
 
 [<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://nodejs.org/en/docs/ 'node.js')
 
