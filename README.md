@@ -48,7 +48,7 @@
 
 [<img align="left" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://reactjs.org/ 'React')
 
----
+<br />
 
 ### 💻 Backend Skills:
 
