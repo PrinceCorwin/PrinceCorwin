@@ -1,7 +1,7 @@
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
 ![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge) -->
 
-## 👋Hello and Welcome, I'm Steve Amalfitano
+## 👋Hello and Welcome. I'm Steve Amalfitano
 
 ### A Snapshot of Me:
 
