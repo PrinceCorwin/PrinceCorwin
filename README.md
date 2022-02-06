@@ -34,35 +34,37 @@
 
 ### 💻 Frontend Skills:
 
-[<img align="left" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/HTML 'HTML')
+[<img align="left" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML")
 
-[<img align="left" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/CSS 'CSS')
+[<img align="left" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS")
 
-[<img align="left" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://sass-lang.com/documentation 'Sass')
+[<img align="left" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://sass-lang.com/documentation "Sass")
 
-[<img align="left" style="border-radius:50%" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true?raw=true" />](https://getbootstrap.com/ 'Bootstrap')
+[<img align="left" style="border-radius:50%" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true?raw=true" />](https://getbootstrap.com/ "Bootstrap")
 
-[<img align="left" style="border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://chakra-ui.com/ 'Chakra UI')
+[<img align="left" style="border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://chakra-ui.com/ "Chakra UI")
 
-[<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript 'Javascript')
+[<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Javascript")
 
-[<img align="left" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://reactjs.org/ 'React')
+[<img align="left" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://reactjs.org/ "React")
+
+[<img align="left" target="\_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/framer-motion.png?raw=true"/>](https://www.framer.com/motion/ "Framer-Motion")
 
 <br />
 
 ### 💻 Backend Skills:
 
-[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://nodejs.org/en/docs/ 'node.js')
+[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://nodejs.org/en/docs/ "node.js")
 
-[<img align="left" style="border-radius:50%" target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://expressjs.com/ 'Express')
+[<img align="left" style="border-radius:50%" target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://expressjs.com/ "Express")
 
-[<img align="left" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />](https://firebase.google.com/ 'Firebase')
+[<img align="left" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />](https://firebase.google.com/ "Firebase")
 
-[<img align="left" target="_blank" alt="PHP" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png?raw=true" />](https://www.php.net/ 'php')
+[<img align="left" target="_blank" alt="PHP" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png?raw=true" />](https://www.php.net/ "php")
 
-[<img align="left" target="_blank" alt="SQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://dev.mysql.com/doc/ 'mySQL')
+[<img align="left" target="_blank" alt="SQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://dev.mysql.com/doc/ "mySQL")
 
-[<img align="left" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />](https://git-scm.com/doc 'git')
+[<img align="left" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />](https://git-scm.com/doc "git")
 
 <br />
 <br />
