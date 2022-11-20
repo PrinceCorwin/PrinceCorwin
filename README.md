@@ -88,7 +88,7 @@ alt="Davinci Resolve Media Offline Error" width="240"  /></a>
 alt="Affinity Designer Social Medial Templates" width="240"  /></a>
 
 [twitter]: https://twitter.com/stevecorwin9
-[linkedin]: https://www.linkedin.com/company/amalfi-makes-it/
+[linkedin]: https://www.linkedin.com/in/steve-corwin-amalfitano/
 [youtube]: https://www.youtube.com/c/TribeOfOne
 [facebook]: https://www.facebook.com/AmalfiMakesIt/
 [ami]: https://www.amalfimakesit.com/
