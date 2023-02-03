@@ -9,7 +9,6 @@
 - 🏢 My professional experience includes web development, estimating, pipe design and industrial construction. I like to build things
 - 🛢️ I'm currently creating new content for my [Youtube Channel](https://www.youtube.com/c/tribeofone)
 - 📚 I still prefer the printed page for leisure and learning
-- 🏆 I strive to be the man my loved ones always said I could be
 - ⚡ Motto: _Live to Learn - Learn to Live_
 
 ---
