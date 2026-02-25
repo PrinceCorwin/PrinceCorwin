@@ -1,4 +1,4 @@
-# 👋 Hello and Welcome. I'm Steve Amalfitano
+# 👋 Code Friend, and Enter...
 
 🎓 **B.S. Computer Science** · ☁️ **AWS Developer Experience**
 
