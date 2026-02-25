@@ -1,6 +1,6 @@
 # 👋 Code Friend, and Enter...
 
-🎓 **B.S. Computer Science** · ☁️ **AWS Developer Experience**
+🎓 **Steve Amalfitano  -  B.S. Computer Science** · ☁️ **AWS Developer Experience**
 
 ### A Snapshot of Me:
 
