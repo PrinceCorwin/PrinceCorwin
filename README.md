@@ -58,6 +58,6 @@
 
 <br />
 
-<a href="https://youtu.be/1jE0HnPz_Mc" target="_blank"><img src="https://i3.ytimg.com/vi/1jE0HnPz_Mc/maxresdefault.jpg" alt="YouTube Video" width="240" /></a>
-<a href="https://youtu.be/eDRWoRwpB7U" target="_blank"><img src="https://i3.ytimg.com/vi/eDRWoRwpB7U/maxresdefault.jpg" alt="YouTube Video" width="240" /></a>
-<a href="https://youtu.be/0GDE7p9KFek" target="_blank"><img src="https://i3.ytimg.com/vi/0GDE7p9KFek/maxresdefault.jpg" alt="YouTube Video" width="240" /></a>
+<a href="https://youtu.be/1jE0HnPz_Mc" target="_blank"><img src="https://i3.ytimg.com/vi/1jE0HnPz_Mc/hqdefault.jpg" alt="YouTube Video" width="240" /></a>
+<a href="https://youtu.be/eDRWoRwpB7U" target="_blank"><img src="https://i3.ytimg.com/vi/eDRWoRwpB7U/hqdefault.jpg" alt="YouTube Video" width="240" /></a>
+<a href="https://youtu.be/0GDE7p9KFek" target="_blank"><img src="https://i3.ytimg.com/vi/0GDE7p9KFek/hqdefault.jpg" alt="YouTube Video" width="240" /></a>
